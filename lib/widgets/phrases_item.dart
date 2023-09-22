@@ -53,7 +53,7 @@ class PhrasesItem extends StatelessWidget {
                   )),
             ],
           ),
-          SizedBox(height: 25,),
+          SizedBox(height: 38,),
           Divider(
             height: 1.0,
             thickness: 1.0,
